@@ -1,0 +1,41 @@
+* {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+ }
+
+
+ 
+ .activity {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: larger;
+     font-weight: bold;
+     border: 2px solid;
+     padding: 10px;
+     background-color: orange;
+     color: black;
+     margin: 25px;
+     font-style: italic;
+ }
+ 
+ button {
+     background-color: red;
+     font-weight: bold;
+     font-size: 24px;
+     color: lemonchiffon;
+     padding: 10px 20px;
+     border: none;
+     border-radius: 10px;
+     cursor: pointer;
+ }
+ 
+ button:hover {
+     background-color: black;
+ }
+ 
+ button:active {
+     background-color: coral;
+     color: brown;
+ }
